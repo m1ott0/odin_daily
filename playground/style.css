@@ -1,0 +1,23 @@
+* {
+    color:rgb(197, 158, 85)
+}
+div {
+    color: cadetblue;
+}
+.alert-txt{
+    color: rgb(231, 14, 14);
+}
+#title{
+    color: rgb(100, 0, 127);
+}
+.global,
+.globaly{
+    color: #1100fp;
+    background-color: black;
+}
+.teste.odin{
+    color: hsl(15, 82%, 45%);
+}
+.ancestor .child{
+    color: chocolate;
+}
