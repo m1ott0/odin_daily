@@ -1,23 +1,22 @@
-* {
-    color:rgb(197, 158, 85)
+.titulos{
+    color: rgb(222, 175, 111);
+    font-family: "Lucida Console", sans-serif;
+    font-size:19px;
+    font-weight: bold;
+    text-align: center;
 }
-div {
-    color: cadetblue;
+.paragrafos,
+#paragrafos{
+    color:rgb(128, 255, 0);
+    font-family: Monaco, monospace;
+    font-size: 19px;
+    font-weight: 1000;
+    text-align: center;
 }
-.alert-txt{
-    color: rgb(231, 14, 14);
+.kratos{
+    height: auto;
+    width: 400px
 }
-#title{
-    color: rgb(100, 0, 127);
-}
-.global,
-.globaly{
-    color: #1100fp;
+body{
     background-color: black;
-}
-.teste.odin{
-    color: hsl(15, 82%, 45%);
-}
-.ancestor .child{
-    color: chocolate;
 }
