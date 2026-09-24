@@ -1,22 +1,16 @@
-.titulos{
-    color: rgb(222, 175, 111);
-    font-family: "Lucida Console", sans-serif;
-    font-size:19px;
-    font-weight: bold;
-    text-align: center;
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    box-sizing: border-box;
 }
-.paragrafos,
-#paragrafos{
-    color:rgb(128, 255, 0);
-    font-family: Monaco, monospace;
-    font-size: 19px;
-    font-weight: 1000;
-    text-align: center;
+
+div {
+    padding: 10px 60px 0px 7px ;
+    border: 1px solid blue;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+
 }
-.kratos{
-    height: auto;
-    width: 400px
-}
-body{
-    background-color: black;
-}
+
