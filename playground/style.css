@@ -1,17 +1,13 @@
-.flex-container2{
-    display: flex;
-}
 
 .flex-container {
  display: flex;
+ flex-direction: column;
 }
-
 
 .flex-container div {
-  flex: 1;
+  flex: 1 1 auto;
   background: peachpuff;
   border: 4px solid brown;
-  height: 100px;
-  width: 100px;
-
+  height: 80px;
 }
+
